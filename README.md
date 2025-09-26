@@ -27,3 +27,5 @@ My first repository for IDEA9103
 [Link Text](https://www.google.com)
 
 ![An image of a cat](https://placecats.com/200/300)
+
+![An image of the Mona Lisa](readmeImages/Mona_Lisa_by_Leonardo_da_Vinci_500_x_700.jpg)
